@@ -21,3 +21,5 @@
 - pull : 원격 repo의 commit 들을 로컬 repo로 반영하기(pull)!
 
 - clone: 원격 repo 를 내 컴퓨터에 가져와서 초기 repo 세팅하는 것
+
+- 충돌을 잘 피하는 방법 Pull -> commit -> push
