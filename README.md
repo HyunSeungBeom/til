@@ -1,27 +1,2 @@
-# til
+# Til
 Today I Learned
-1주차 주요 개념 키워드 적어보기
-
-- 버전관리 : 프로젝트 상태가 변경되는 정보를 알고 있따는 것. Git은 가장 널리 쓰이는 버전관리 도구로 commit을 사용해 관리한다.
-
-- git 초기화(git initialize) : 컴퓨터에 있는 프로젝트를 Git이 관리하는 프로젝트로 만들기
-
-- commit : 현재 프로젝트의 상태를 찰칵 저장하는 것
-
-- 작업 내역 단위인 commit에는 누가, 언제 commit 했는지의 정보와 프로젝트 변경 내용이 있으면 좋다.
-
-- 작업 내역이 어떤 것인지 알아볼 수 있게 적는 메시지를 'commit 메시지' 라고 한다.
-
-- staging(add) :commit 에 반영할지 안할지는 파일 단위로 선택 가능하다. commit에 반영할 파일을 선택하는 것
-
-- 내 컴퓨터에 저장되어있는 리포지토리를 로컬 repo 
-
-- GitHub 처럼 다른 곳에서 접속할 수 있는 공간에 저장되어있는 것을 원격 repo
-
-- push : 로컬 repo의 commit 들을 원격 repo에 반영하기(push)!
-
-- pull : 원격 repo의 commit 들을 로컬 repo로 반영하기(pull)!
-
-- clone: 원격 repo 를 내 컴퓨터에 가져와서 초기 repo 세팅하는 것
-
-- 충돌을 잘 피하는 방법 Pull -> commit -> push
